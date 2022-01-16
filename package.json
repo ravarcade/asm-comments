@@ -2,6 +2,11 @@
   "name": "asm-comm",
 	"displayName": "asm-comm",
 	"description": "Puts comments in asm files in right column",
+	"publisher": "ravarcade",
+	"repository": {
+		"type": "git",
+		"url" : "https://https://github.com/ravarcade/asm-comments/"
+	  },
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.63.0"
